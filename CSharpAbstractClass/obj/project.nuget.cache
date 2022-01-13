@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MyUIc3sy96sFtSrjORLMmLkq7/CeTrQqGhY85FbbAPPAvhbi5LEHBQbTPjRq4cgn5F+kfGlaHQ3BUaBvqkcGVQ==",
+  "dgSpecHash": "i4WVAYlpBsJANcQ3c0IgvHgBZ/8CV94IaZa6YMF3yb4XRXWibF7Fa8i6a7M63s1GP4dzsgPBIIv8+zXk+vIqFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokbe\\source\\repos\\CSharpAbstractClass\\CSharpAbstractClass.csproj",
+  "projectFilePath": "C:\\Github\\AbstractClasses\\CSharpAbstractClass\\CSharpAbstractClass.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
