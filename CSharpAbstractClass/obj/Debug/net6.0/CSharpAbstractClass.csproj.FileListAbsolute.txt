@@ -1,0 +1,15 @@
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\CSharpAbstractClass.exe
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\CSharpAbstractClass.deps.json
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\CSharpAbstractClass.runtimeconfig.json
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\CSharpAbstractClass.dll
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\ref\CSharpAbstractClass.dll
+C:\Users\gokbe\source\repos\CSharpAbstractClass\bin\Debug\net6.0\CSharpAbstractClass.pdb
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.csproj.AssemblyReference.cache
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.AssemblyInfoInputs.cache
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.AssemblyInfo.cs
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.dll
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\ref\CSharpAbstractClass.dll
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.pdb
+C:\Users\gokbe\source\repos\CSharpAbstractClass\obj\Debug\net6.0\CSharpAbstractClass.genruntimeconfig.cache
