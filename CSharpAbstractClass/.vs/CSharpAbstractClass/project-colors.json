@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a90f759f-5d1d-4e93-a16b-e0fa43d33d5b": {
+      "ProjectGuid": "a90f759f-5d1d-4e93-a16b-e0fa43d33d5b",
+      "DisplayName": "CSharpAbstractClass",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cadcca13-9099-4831-afd5-4ab184bdd449": {
+      "ProjectGuid": "cadcca13-9099-4831-afd5-4ab184bdd449",
+      "DisplayName": "Modals",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
